@@ -17,6 +17,8 @@ namespace WebApplication1.Models
         {
 
         }   
+
+        //
         
         public BenhNhan(string mabn, string holot, string ten, string ngaysinh,int gioitinh)
         {
